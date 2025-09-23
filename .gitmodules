@@ -1,0 +1,3 @@
+[submodule "projects/buckled-demo"]
+	path = projects/buckled-demo
+	url = https://github.com/anthonyiscoding/buckled-demo-n8
