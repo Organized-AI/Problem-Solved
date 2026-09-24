@@ -43,3 +43,7 @@ This is a 2-day event that takes place in the evenings.
 *   Bring your own laptop and charger
 *   Solutions must be functional and deployable
 *   Solo developers preferred (teams welcome, but compete as one entry)
+
+---
+
+Maintained by Jordaaan Hill ([LinkedIn](https://www.linkedin.com/in/jordaaanhill)).
